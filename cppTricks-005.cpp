@@ -25,5 +25,9 @@ int main()
     int to_get_dg_4_pos = num / 1000; 
     int dg_4_val = to_get_dg_4_pos % 10; 
     cout << "the 4th digit is => " << is_mt_4_digit * dg_4_val + is_lt_4_digit * 0 << endl;
-
+    
+    // very good solution
+    /*
+        cout<<( num/1000 % 10 )<<endl;
+    */
 }
