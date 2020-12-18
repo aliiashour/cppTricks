@@ -9,9 +9,7 @@ int main()
 
     ====
 
-        q1 => using only %2 how to know if he givin number is even or odd
-        q2 => using only %10 how to know if he givin number is even or odd
-        q3 => using only /2 how to know if he givin number is even or odd
+        using only %2, /2 & %10 how to know if he givin number is even or odd
         output
             1 => is even
             0 => is odd
