@@ -14,7 +14,7 @@ int main()
     {
         if (str[i] >= 'a' && str[i] <= 'z') { // make sure that the current character is a Lowercase letter
 
-            // the data type char store the characters as integer value (Ascii code corosponde to it)
+            // the data type char store the character as integer value (Ascii code corosponde to it)
             // so A -> 65, B -> 66, C -> 67 and so on
             // so a -> 97, b -> 98, c -> 99 and so on
 
