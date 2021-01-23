@@ -3,11 +3,7 @@
 using namespace std;
 int main()
 {
-    /*
-        == you have an array, you should find the most repeated value
-        == EX:// 1, 2, 4, 2, 2
-        == the result should be 2 repeated 3 times
-    */
+   
     int N; cin >> N; 
     int arr[500]; 
     int freq[501];
