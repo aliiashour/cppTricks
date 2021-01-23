@@ -16,7 +16,7 @@ int main()
     {
         cin >> arr[i];    //EX:// 3 5 6 7 9 
         freq[arr[i]] = i; //this array will be like this index  0 1 2 3 4 5 6 7 8 9 10 this array size should be freq[ maxmum value at arr + 1 ]
-                                                       //value        0   1 2 3   4    the other ceils should be -1 as i do at previous loop
+                                                       //value        0   1 2 3   4    the other ceils should be -1 as i'm do at previous loop
         // now the freq index is normal index
         // and the value (greater then -1) of any ceil is exactly the last index of the value at the main array (arr)
     }
